@@ -1,0 +1,16 @@
+{
+  "latest": {
+    "installer": {
+      "version": "1.2",
+      "download_url": "",
+      "changelog": "Versión inicial.",
+      "mandatory": false
+    },
+    "portable": {
+      "version": "1.2",
+      "download_url": "",
+      "changelog": "Versión inicial.",
+      "mandatory": false
+    }
+  }
+}
