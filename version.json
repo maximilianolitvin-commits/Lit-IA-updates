@@ -1,15 +1,15 @@
 {
   "latest": {
     "installer": {
-      "version": "1.3",
-      "download_url": "https://github.com/maximilianolitvin-commits/Lit-IA-updates/releases/download/V1.3/Lit-IA_Setup.exe",
-      "changelog": "Versión 1.3 compatible con DGN.",
+      "version": "1.4",
+      "download_url": "https://pub-0c9bf0056618474baa9eaa886e1b5711.r2.dev/Lit-IA_Setup.exe",
+      "changelog": "Versión 1.4. Actualización del sistema de descargas y actualizaciones a servidores de Lit-IA.",
       "mandatory": false
     },
     "portable": {
-      "version": "1.3",
-      "download_url": "https://github.com/maximilianolitvin-commits/Lit-IA-updates/releases/download/V1.3/Lit-IA.exe",
-      "changelog": "Versión 1.3 compatible con DGN.",
+      "version": "1.4",
+      "download_url": "https://pub-0c9bf0056618474baa9eaa886e1b5711.r2.dev/Lit-IA.zip",
+      "changelog": "Versión 1.4. Actualización del sistema de descargas y actualizaciones a servidores de Lit-IA.",
       "mandatory": false
     }
   }
